@@ -19,7 +19,7 @@ to differentiate a healthy patient from an unhealthy one. The
 study also shows the comparison of these methods in classification
 of patients.
 
-<img src="stroke.jpg" width="1000" height="500" /> </br>
+<img src="stroke2.jpg" width="1000" height="500" /> </br>
 
 ## Data Set Description
 The dataset contains 3315 samples from patients with acute
